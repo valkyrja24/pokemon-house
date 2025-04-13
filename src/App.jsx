@@ -9,7 +9,7 @@ function App() {
   const limit = 10; 
 
   useEffect(() => {
-    document.title = "Pokémon Explorer";
+    document.title = "Pokémon House";
   }, []);
 
   useEffect(() => {
@@ -85,8 +85,8 @@ function App() {
   }, []);
 
   return (
-    <div className="pokemon-browser">
-      <h1>Pokémon Explorer</h1>
+    <div className="pokemon-house">
+      <h1>Pokémon House</h1>
       
       <div className="navigation-buttons">
         <button 
