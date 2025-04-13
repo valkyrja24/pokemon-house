@@ -1,3 +1,7 @@
+# Pokémon House - React App
+
+A simple React application that displays Pokémon data from the PokéAPI with pagination features.
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
